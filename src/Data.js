@@ -2,7 +2,7 @@ import { faker } from '@faker-js/faker';
 
 export const messages = []
 
-export function createMessage() {
+function createMessage() {
   return {
     id: faker.datatype.uuid(),
     from: faker.internet.email(),
