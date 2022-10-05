@@ -1,0 +1,26 @@
+{
+  "name": "ahj-homeworks-rxjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Votchitsev/ahj-homeworks-rxjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Votchitsev/ahj-homeworks-rxjs/issues"
+  },
+  "homepage": "https://github.com/Votchitsev/ahj-homeworks-rxjs#readme",
+  "description": "",
+  "devDependencies": {
+    "@faker-js/faker": "^7.5.0",
+    "koa": "^2.13.4",
+    "nodemon": "^2.0.20"
+  },
+  "type": "module"
+}
